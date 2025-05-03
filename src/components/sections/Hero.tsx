@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
             {t(
               'Invest in Bulgaria\'s Best Airbnb Properties — Without Breaking the Bank',
-              'Инвестирайте в най-добрите Airbnb имоти в България — Без да разбивате банката'
+              'Инвестирайте в Андон Airbnb имоти в България — Без да разбивате банката'
             )}
           </h1>
           
